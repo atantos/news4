@@ -1,0 +1,13 @@
+name = "news4"
+uuid = "f5c2678d-1402-44ad-a13b-4edbee2718a3"
+authors = ["Alexandros Tantos", "Aristotle University of Thessaloniki"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
