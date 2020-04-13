@@ -8,7 +8,7 @@ using Test
 my_f(2,3)
 
 # adding a test for 2x + 3y (if that was the case)
-@test my_f(2,3) == 13
+#@test my_f(2,3) == 13
 
 @testset "news4.jl" begin
     # Write your own tests here.
